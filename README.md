@@ -1,2 +1,27 @@
-# classical-mechanics-simulator
-Python simulations of classical mechanics systems including projectile motion, pendulums, spring-mass systems, and orbital dynamics.
+# Classical Mechanics Simulator
+
+A collection of Python simulations based on classical mechanics.
+
+## Current Features
+
+- Projectile Motion Simulation
+
+## Concepts Used
+
+- Kinematics
+- Newtonian Mechanics
+- Vector Decomposition
+- Python
+- NumPy
+- Matplotlib
+
+## Future Additions
+
+- Air Resistance
+- Pendulum Simulation
+- Spring-Mass System
+- Orbital Mechanics
+
+## Author
+
+Tushar Sharma
